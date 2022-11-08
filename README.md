@@ -15,7 +15,7 @@
 
 - 📚 I'm looking forward to learn new programming languages.
 
-<h2> Skills   <a href= https://github.com/Kacper-Chojnacki?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>on basic level</h2>
+<h2> Skills   <a href=  https://github.com/Kacper-Chojnacki?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' height='32px' src =' https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a> - on basic level</h2>
 
 <h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
