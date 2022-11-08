@@ -8,7 +8,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Kacper-Chojnacki.Kacper-Chojnacki)
 
 </p>
-<div size='20px'> Hi! My name is Kacper Chojnacki. I hope that you will enjoy taking time on my GitHub profile 😅
+<div size='20px'> Hi! My name is Kacper Chojnacki. I hope you will enjoy taking time on my GitHub profile 😅
 </div>
 
 - 🏫 I’m currently focused on full-time studies.
