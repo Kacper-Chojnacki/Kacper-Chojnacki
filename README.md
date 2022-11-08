@@ -2,10 +2,8 @@
 <img width="100%" height = "250px" src="https://media.tenor.com/s96DWMIVYdgAAAAd/dwight-schrute-the-office.gif" alt="cover" />
 </div>
 
-<h1> Hello Developers! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h1> Hello guys! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Kacper-Chojnacki.Kacper-Chojnacki)
 
 </p>
 <div size='20px'> Hi! My name is Kacper Chojnacki. I hope you will enjoy taking time on my GitHub profile 😅
@@ -35,7 +33,3 @@
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
 ![Metrics](https://metrics.lecoq.io/Kacper-Chojnacki?template=classic&config.timezone=America%2FToronto)
-
-
-<br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
