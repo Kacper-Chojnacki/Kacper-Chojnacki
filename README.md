@@ -11,14 +11,11 @@
 <div size='20px'> Hi! My name is Kacper Chojnacki. I hope that you will enjoy taking time on my GitHub profile 😅
 </div>
 
-<img width="55%" align="right" alt="Github" src="[[https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg](https://i.pinimg.com/originals/78/5a/1b/785a1b9c359640da6bc9cfe3670b42ba.png)](https://i.pinimg.com/originals/78/5a/1b/785a1b9c359640da6bc9cfe3670b42ba.png)" />
+- 🏫 I’m currently focused on full-time studies.
 
+- 🤓 At present I'm learning c++. 
 
-- 🔭 I’m currently focused on full-time studies.
-
-- 🌱 At present I'm learning c++. 
-
-- 👯 I’m looking to collaborate on  
+- 📚 I'm looking forward to learn new programming languages.
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/Kacper-Chojnacki?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
